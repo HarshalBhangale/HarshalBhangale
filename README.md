@@ -1,14 +1,14 @@
 **Profile Visits**\
 ![Visitor Count](https://profile-counter.glitch.me/nikhilverma360/count.svg)
 
-![Black Grey Aqua Grunge Gaming YouTube Banner](https://github.com/nikhilverma360/nikhilverma360/assets/32412967/305f2c64-9a7c-4e8f-aefa-d872c04efc9f)
+![Black Grey Aqua Grunge Gaming YouTube Banner](https://github.com/HarshalBhangale/HarshalBhangale/assets/32412967/305f2c64-9a7c-4e8f-aefa-d872c04efc9f)
 
 <h1 align="center"></h1>
 
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
 
-- 🔭 I’m currently working on **Web3 Social,Zero-Knowledge Proofs, ZK-Rollups**
+- 🔭 I’m currently working on ** AI Agents , trading Algo apps, memecoins , gaming  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilverma360](https://github.com/nikhilverma360)
 
@@ -28,6 +28,6 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalBhangale&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)|
 
 
