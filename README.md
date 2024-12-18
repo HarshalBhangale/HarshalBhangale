@@ -21,7 +21,7 @@ Languages: Solidity, TypeScript, Python, JavaScript, Java, HTML5
 
 Frameworks/Tools: Firebase, Google Cloud, Heroku, Vercel, Next.js, Node.js, React, React Native
 
-Database/Servers: MySQL, SQLite, Apache, Nginx
+Database/Servers: MySQL, SQLite, AWS
 
 Design: Figma, Canva, Blender
 
