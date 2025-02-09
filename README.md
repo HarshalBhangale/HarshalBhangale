@@ -11,7 +11,8 @@
 
 💬 Ask me about Blockchain, Web3.0, and Development Tools.
 
-ex- Ordex.io , Ajna Capital , Toradle
+Past Workplaces : Ordex.io , Ajna Capital , Toradle
+
 Connect with me: buddyharshal2751@gmail.com  
 
 Twitter : https://x.com/imbuddyharshal
